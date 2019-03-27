@@ -1,0 +1,102 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro M2000M (ID=0x13b0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.9125
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Backups\FSU\WORK ON THIS ONE\Game Expo\Game Expo\Cataclysm_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.630023 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3624 -> priority: 1 
+  Thread -> id: 3658 -> priority: 1 
+  Thread -> id: 3090 -> priority: 1 
+  Thread -> id: 3c38 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.700736 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 29050.
+Total: 16.864777 ms (FindLiveObjects: 1.778566 ms CreateObjectMapping: 0.630518 ms MarkObjects: 11.705274 ms  DeleteObjects: 2.750417 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.765719 ms
+
+Unloading 2001 unused Assets to reduce memory usage. Loaded Objects now: 361.
+Total: 20.567688 ms (FindLiveObjects: 0.175802 ms CreateObjectMapping: 0.133530 ms MarkObjects: 0.180543 ms  DeleteObjects: 20.076231 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.457481 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 761.
+Total: 2.106467 ms (FindLiveObjects: 0.076246 ms CreateObjectMapping: 0.020938 ms MarkObjects: 0.303012 ms  DeleteObjects: 1.705480 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.860048 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 29050.
+Total: 11.105571 ms (FindLiveObjects: 1.449085 ms CreateObjectMapping: 0.318024 ms MarkObjects: 6.620044 ms  DeleteObjects: 2.718022 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.753671 ms
+
+Unloading 1976 unused Assets to reduce memory usage. Loaded Objects now: 764.
+Total: 18.786751 ms (FindLiveObjects: 0.214123 ms CreateObjectMapping: 0.123259 ms MarkObjects: 0.353975 ms  DeleteObjects: 18.094601 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.922863 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 29050.
+Total: 11.184188 ms (FindLiveObjects: 1.372838 ms CreateObjectMapping: 0.414814 ms MarkObjects: 6.994167 ms  DeleteObjects: 2.401578 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.720190 ms
+
+Unloading 1976 unused Assets to reduce memory usage. Loaded Objects now: 764.
+Total: 29.720076 ms (FindLiveObjects: 0.137876 ms CreateObjectMapping: 0.194765 ms MarkObjects: 0.344098 ms  DeleteObjects: 29.042543 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.925628 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 29050.
+Total: 11.619942 ms (FindLiveObjects: 1.650566 ms CreateObjectMapping: 0.491061 ms MarkObjects: 7.043154 ms  DeleteObjects: 2.433973 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.410462 ms
+
+Unloading 1976 unused Assets to reduce memory usage. Loaded Objects now: 764.
+Total: 18.471096 ms (FindLiveObjects: 0.092444 ms CreateObjectMapping: 0.109036 ms MarkObjects: 0.330666 ms  DeleteObjects: 17.938553 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.877036 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 29050.
+Total: 13.579446 ms (FindLiveObjects: 2.800590 ms CreateObjectMapping: 0.493826 ms MarkObjects: 7.426759 ms  DeleteObjects: 2.858269 ms)
+
